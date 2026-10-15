@@ -34,9 +34,9 @@ A collection of mini-projects built on the ESP32 microcontroller, covering Bluet
 - ESP32 board added via Board Manager: `https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json`
 
 ### Running a Project
-1. Open the desired project folder in Arduino IDE
+1. Open `<project>/<project>.ino` in Arduino IDE
 2. Select your ESP32 board and COM port
-3. Install any required libraries (listed in each project's folder)
+3. Install any required libraries (listed in each sketch)
 4. Upload to the board
 
 ## Notes
